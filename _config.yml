@@ -22,8 +22,8 @@ title: GH Page Midnight
 email: sv-github@github.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site that uses the Jekyll Midnight theme!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/gh-page-test" # the subpath of your site, e.g. /blog
+url: "sv-github.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
