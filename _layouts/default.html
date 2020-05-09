@@ -31,6 +31,12 @@
 
         {{ content }}
 
+        <div id="particles-js"></div>
+        <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+        <script type="text/javascript">
+          particlesJS.load('particles-js','particles.json');
+        </script>
+        
         <div id="title">
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
